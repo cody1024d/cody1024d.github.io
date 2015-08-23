@@ -1,0 +1,9 @@
+# Site navigation links
+
+- title: Musings
+  url:  /musings/
+  excerpt: Thoughts on Things.
+
+- title: Good Code
+  url: /code/
+  excerpt: Thoughts on Code.

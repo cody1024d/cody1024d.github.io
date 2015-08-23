@@ -1,0 +1,28 @@
+title: Musings of a Robot
+description: "Developer by day...and sometimes night.  Thoughts on development, life, development, and getting by."
+locale: en_US
+url: //cody1024d.github.io
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner:
+  name: Cody Duncan
+  email: cody1024d@gmail.com
+  bio: "Life.  Tattoos.  Good Code.   Not always in that order."
+  avatar: bioPhoto.jpg # 160x160 px image for author byline
+  disqus-shortname:
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
