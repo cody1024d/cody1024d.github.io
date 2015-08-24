@@ -1,4 +1,10 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: Musings
+  url:  /musings/
+
+- title: Good Code
+  url: /code/
+
+- title: About
+  url: /about/
