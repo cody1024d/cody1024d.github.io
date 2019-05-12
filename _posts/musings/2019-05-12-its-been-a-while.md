@@ -1,6 +1,8 @@
 ---
 title: It's Been a While...
 layout: article
+image:
+    teaser: beenawhile.jpeg
 categories: [musings]
 ---
 
